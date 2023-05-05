@@ -1,4 +1,4 @@
-"# chandanjt" 
+
 ![logo](https://github.com/chandanjt/chandanjt/blob/main/4.jpg)
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
