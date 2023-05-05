@@ -1,5 +1,5 @@
 "# chandanjt" 
-![logo](https://github.com/chandanjt/chandan/blob/main/4.jpg)
+![logo](https://github.com/chandanjt/chandanjt/blob/main/4.jpg)
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 <img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
